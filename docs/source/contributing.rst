@@ -1,4 +1,5 @@
-Contributing
+conda install -c conda-forge -c bioconda -c defaults legsta
+contributing
 ============
 
 .. _new-issues:
